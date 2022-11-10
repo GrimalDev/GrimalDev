@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GrimalDev
+- 👀 I’m interested in EVERYTHING
+- 🌱 I’m currently learning to become a fullstack webdev
+- 💞️ I’m looking to collaborate on EVERYTHING
+- 📫 How to reach me bapt.grimaldi@gmail.com
