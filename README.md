@@ -3,6 +3,7 @@
 * 👀 I’m interested in EVERYTHING
 * 💞️ I’m looking to collaborate on EVERYTHING
 * 🖥️  See my portfolio at [baptistegrimaldi.com](http://www.baptistegrimaldi.com/)
+* 📄  [Get my English/French Resume](https://raw.githubusercontent.com/GrimalDev/portfolio/main/public/media/curriculum/CV_BaptisteGrimaldi_v6.11_en_fr.pdf)
 * ✉️  You can contact me at [bapt.grimaldi@gmail.com](mailto:bapt.grimaldi@gmail.com)
 
 ### Skills
